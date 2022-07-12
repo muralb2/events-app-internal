@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x 2 user217    1001 4096 Jul 10 04:27 .
+drwxr-xr-x 4 root    root    4096 Mar 17  2021 ..
+-rw------- 1 user217 user217   82 Jul 10 04:27 .bash_history
+-rw-r--r-- 1 user217 user217    0 Jul 10 04:27 user217-roidtc-july2022-user217.txt
