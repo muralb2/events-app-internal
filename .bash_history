@@ -18,3 +18,17 @@ git config --global user.name bona.murali@gmail.com
 git config --global init.defaultBranch main
 git config --global --list
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin muralb2/events-app-internal (github.com)
+git remote add origin muralb2/events-app-internal
+git push -u origin main
+git remote add origin muralb2/events-app-internal
+git push -u origin main
+git remote add origin https://github.com/muralb2/events-app-internal.git
+git remote add origin1 https://github.com/muralb2/events-app-internal.git
+git push -u origin1  main
+bona.murali@gmail.com
+git push -u origin master 
+git status
+git add.
